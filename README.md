@@ -6,6 +6,9 @@ Originally made because the neofetch config files dont accept inverse colors.
 # How it works:
 zfetch is made using ``node.js``, and as such it uses various modules to obtain your system's data, such as ``systeminformation``, ``os``, and more.
 
+# How to install:
+Grab the ``installer.sh`` file and create an empty folder where you want the code to be. Then, execute the bash script, and everything will get ✨⭐ magically ⭐✨ installed. 
+
 # How to use:
 First of all, go to your
 ``.bashrc`` file and add:
